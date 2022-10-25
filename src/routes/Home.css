@@ -1,0 +1,65 @@
+div.a{
+    text-align: center;
+}
+div.bottom{
+    top: 20px;
+    margin-left: 40px;
+    float:left;
+}
+
+div.borderContent{
+    border-width: 5px;
+    border-color: green;
+    border-style: groove;
+    margin-top:20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    background-color: white;
+    height: fit-content;
+    border-radius: 10px;
+}
+
+div.borderComment{
+    border-top: 1px solid green;
+}
+
+p.content{
+    margin: 20px;
+    overflow-wrap: break-word;
+}
+
+p.comment{
+    padding: 0.5%;
+    margin: 20px;
+    background: #FFFFCC;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px
+}
+
+div.button{
+    margin: 20px;
+}
+
+input.buttonAdd{
+    margin-left: 20px;
+}
+
+input.marginButton{
+    margin: 10px;
+}
+
+textarea.text{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+button.button{
+    margin-left: 40px;
+    display: block;
+}
+
+body{
+    background-color: #CCFFFF;
+}
